@@ -2,7 +2,7 @@
 
 #  Destini
 
-#Pattern is MVC
+## Pattern is MVC
 
 ## About app
 
